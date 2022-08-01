@@ -7,12 +7,24 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif"/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/> 
-
+<img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" alt="coders" width="200px" />
+I am Aisha 19 years. aspiring full stack developer with more than  I have more than 3 years’ experience in the field of web development as well
+as app development. Front end web development is my profession and I strive to deliver semantic
+markup, to-the-point CSS in conjunction with snappy performance to guarantee a top-notch user
+experience. I love gadgets, enjoy trying something new every day and playing with the latest
+technologies. I own my office e to do just that, in a friendly environment, with awesome clients
+and inspiring colleagues working on small and large projects. In the past 1.4 years I have written
+thousands of lines of markup and stylesheets, several jQuery plugins, a chrome extension, a
+windows screensaver (duh!), very little PHP, lots of Ruby with Padrino/Rails and countless lines
+of JavaScript/CoffeeScript. At my office, we like to dive into modern web technology. We use
+Haml for markup, Sass for CSS and develop mostly in Ruby as a server side language. We are not
+fixed on these tools though, they just represent our status quo – every single member of the team
+can introduce a new technology or framework and if it is better suited to get the job done, we will
+go ahead and use it.
 <br />
-<img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" alt="coders" />
+<br />
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
