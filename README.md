@@ -108,7 +108,7 @@ experience.
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <strong>Time 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
 
@@ -166,36 +166,18 @@ Browser                  60 hrs 4 mins       ███████████�
 VS Code                  3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
 
 💻 Operating System: 
-Mac                  65 hrs 43 mins      █████████████████████████   100.0%
+Mac                      65 hrs 43 mins      █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-
- Last Updated on 23/06/2022 02:54:40 UTC
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
 
 #
 
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
 
-<p align="center">
-  <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
-</p>
 
 <h1>
   Connect With Me
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px">
 </h1>
 
 <p align="center">
@@ -249,11 +231,5 @@ Mac                  65 hrs 43 mins      █████████████
 
 </div>
 
-#
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
-
------
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
 
 **Last Edited on**: 23/06/2022
