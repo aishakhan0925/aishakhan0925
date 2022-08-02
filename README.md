@@ -7,10 +7,10 @@
 <br/>
 <br/>
 
-<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif"/>
+<!-- <img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif"/> -->
 
 <img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" alt="coders" width="200px" />
-I am Aisha 19 years. aspiring full stack developer with more than 3 years’ experience in the field of web development as well
+I am Aisha 19 years old. aspiring full stack developer with more than 3 years’ experience in the field of web development as well
 as app development. <br />  <br />
 
 Front end web development is my profession and I strive to deliver semantic
