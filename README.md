@@ -60,8 +60,7 @@ experience.
 <br/>
 <p align="center">
 <!--   <img src="![Profile views](https://gpvc.arturio.dev/aishakhan0925)" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aishakhan0925&style=flat&color=brightgreen"> •   
-  <a href="https://user-badge.committers.top/pakistan/aishakhan0925"><img src="https://user-badge.committers.top/pakistan/aishakhan0925.svg"></a> •
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aishakhan0925&style=flat&color=brightgreen"> •   <a href="https://user-badge.committers.top/pakistan/aishakhan0925"><img src="https://user-badge.committers.top/pakistan/aishakhan0925.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aishakhan0925?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/aishakhan0925?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/aishakhan0925"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
@@ -83,11 +82,14 @@ experience.
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
+
 <br/>
 <h3> 📈 Github Stats </h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aishakhan0925&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishakhan0925&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aishakhan0925&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aishakhan0925&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 <br/>
 
@@ -156,14 +158,12 @@ Mac                      65 hrs 43 mins      ███████████�
 </h3> 
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.aishakhan.me"><img src="https://img.shields.io/badge/-aishakhan.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aisha-khan-6842a91a3/"><img src="https://img.shields.io/badge/-Aisha%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ak3313069@gmail.com"><img src="https://img.shields.io/badge/-ak3313069@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/aishakhan0925"><img src="https://img.shields.io/badge/-@aishakhan0925-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
 <br/>
 <br/>
 
