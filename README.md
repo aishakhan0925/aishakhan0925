@@ -100,5 +100,3 @@ experience.
 
 </div>
 
-
-**Last Edited on**: 23/06/2022
