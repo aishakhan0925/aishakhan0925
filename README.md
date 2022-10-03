@@ -80,7 +80,8 @@ experience.
 <br/>
 <h3> My Badges </h3>
 <p align="center">
-[![@aishakhan0925's Holopin board](https://holopin.io/api/user/board?user=aishakhan0925)](https://holopin.io/@aishakhan0925)
+  [![@aishakhan0925's Holopin board](https://holopin.io/api/user/board?user=aishakhan0925)](https://holopin.io/@aishakhan0925)
+
 
 </p>
 <br/>
