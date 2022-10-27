@@ -4,6 +4,9 @@
   <img src="GIF/Hi.gif" width="40px" />
 </p>
 
+[![@aishakhan0925's Holopin board](https://holopin.me/aishakhan0925)](https://holopin.io/@aishakhan0925)
+
+
 <h2>𝐇𝐞𝐥𝐥𝐨, &lt;c𝚘𝚍𝚎𝚛𝚜/&gt;!
 <br />
 😁 About me </h2>
@@ -77,15 +80,6 @@ experience.
 </a>
 </p>
 <br/>
-<br/>
-<h3> My Badges </h3>
-<p align="center">
-  [![@aishakhan0925's Holopin board](https://holopin.io/api/user/board?user=aishakhan0925)](https://holopin.io/@aishakhan0925)
-
-
-</p>
-<br/>
-
 
 <h3>
    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px"> Connect With Me
