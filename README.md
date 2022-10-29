@@ -11,13 +11,13 @@
 
 Technical enthusiast Full Stack Developer and Fiverr Level One Seller from Pakistan. 
 </h2>
-Hi, I'm Aisha Khan, a full-stack developer. I am a community activist and I have been working as a lead trainer for non-profit organisations for over a year now. I also have experience in web development and app development. Owing to my interest in fostering communities, I've established a few tech-oriented groups in Pakistan.
+I'm a computer enthusiast and an aspiring full-stack developer who is very keen on democratising technology to uplift people, make contributions to open source more accessible, and foster a community. I am the first female Jamstack community leader from Pakistan, and I enjoy using Jamstack (JavaScript, APIs, and Markup).<br /> <br />  Additionally, I am a level two seller for fiver and I’m working with international clients on top-notch products. Catering to my interests, I have been working for non-profit organisations for a year now and have been a freelancer for over 2 years. I have been active in the tech community and have experience in both web and app development. I also own a small tech startup where I have launched my own software product "Saas" (software as a service) in the healthcare industry.
 
 
 <br />
 <br />
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **MERN Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.** <br />
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.** <br />
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Blockchain Development and Web 3.0.** <br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 (https://github.com/aishakhan0925/aishakhan0925/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br />
 
 
