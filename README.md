@@ -7,9 +7,9 @@
 [![@aishakhan0925's Holopin board](https://holopin.me/aishakhan0925)](https://holopin.io/@aishakhan0925)
 
 
-<h2>𝐇𝐞𝐥𝐥𝐨, &lt;c𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" />
-
-Technical enthusiast Full Stack Developer and Fiverr Level One Seller from Pakistan. 
+<h2>Hello &lt; Coders /&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> <br />
+<br />
+I am Aisha Khan, a technical enthusiast, a full-stack developer, a fiverr level one seller, and the first Pakistani female Jamstack leader. Read below to get an insight about me.
 </h2>
 I'm a computer enthusiast and an aspiring full-stack developer who is very keen on democratising technology to uplift people, make contributions to open source more accessible, and foster a community. I am the first female Jamstack community leader from Pakistan, and I enjoy using Jamstack (JavaScript, APIs, and Markup).<br /> <br />  Additionally, I am a level two seller for fiver and I’m working with international clients on top-notch products. Catering to my interests, I have been working for non-profit organisations for a year now and have been a freelancer for over 2 years. I have been active in the tech community and have experience in both web and app development. I also own a small tech startup where I have launched my own software product "Saas" (software as a service) in the healthcare industry.
 
