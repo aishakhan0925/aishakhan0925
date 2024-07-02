@@ -2,7 +2,7 @@
 
 **Hey there 👋!**
 
-I am Aisha Khan, a **technical enthusiast**, a **full-stack developer**, a **fiverr level one seller**, and the **first Pakistani female Jamstack leader**. 
+I am **Aisha Khan**, a **tech enthusiast**, a **full-stack developer**, a **fiverr level one seller**, and the **first Pakistani female Jamstack leader**. 
 
 _Read below to get an insight about me._
 
@@ -14,7 +14,7 @@ _Read below to get an insight about me._
  
 ### Entrepreneur and Freelancer
 
-I am a level two seller for fiver and I’m working with international clients on top-notch products. Catering to my interests, I have been working for non-profit organisations for a year now and have been a freelancer for over 2 years. I have been active in the tech community and have experience in both web and app development. I also own a small tech startup where I have launched my own software product "SaaS" (software as a service) in the healthcare industry.
+I am a **Fiverr Level 2 Seller** and I’m working with **international clients** on top-notch products. Catering to my interests, I have been working for **non-profit organisations** for a year now and have been a freelancer for over 2 years. I have been active in the tech community and have experience in both web and app development. I also own a small **tech startup** where I have launched my own software product "SaaS" (software as a service) in the **healthcare industry**.
 
 ---
 
