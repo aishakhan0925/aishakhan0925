@@ -1,4 +1,4 @@
-[![@aishakhan0925's Holopin board](https://media.licdn.com/dms/image/D4D16AQEUyZ5xydcARQ/profile-displaybackgroundimage-shrink_350_1400/0/1719549328016?e=1725494400&v=beta&t=z06wFKbMK2Vv6xMOGwP-pJgdQsbo9jzLlORtanM9dvo)](https://holopin.io/@aishakhan0925)
+[![An image of @aishakhan0925's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishakhan0925)](https://holopin.io/@aishakhan0925)
 
 **Hey there 👋!**
 
@@ -7,10 +7,6 @@ I am **Aisha Khan**, a **tech enthusiast**, a **full-stack developer**, a **Five
 _Read below to get an insight about me._
 
 ---
-
- <p>
-  <img width="250" align='left' src="https://media.licdn.com/dms/image/D4E0BAQEHl5Dk8ovO-g/company-logo_200_200/0/1681462896691/xomacs_logo?e=2147483647&v=beta&t=A0f5nlWjbM-qzqABGLVAkkhzDOXpghGfrOicVTWTht8">
-</p>
  
 ### Entrepreneur and Freelancer
 
