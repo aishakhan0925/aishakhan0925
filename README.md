@@ -14,6 +14,6 @@ I am a **Fiverr Level Two Seller** and I’m working with **international client
 
 ---
 
-<strong><p align='center'>Contact me for business and project enquiries/solutions @ <a href='mailto:contact@aishayaseen.com'>contact@aishayaseen.com!</a></p></strong>
+<strong><p align='center'>Contact me for business and project enquiries/solutions @ <a href='mailto:aishakhan0925@outlook.com'>aishakhan0925@outlook.com!</a></p></strong>
 
 ---
